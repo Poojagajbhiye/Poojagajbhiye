@@ -1,21 +1,9 @@
 
 ### Hey! 👋
 
-I am a Software Engineer at Larsen & Toubro Infotech - LTI, Pune, India. You can find me on twitter, instagram or [linkedIn] (https://www.linkedin.com/in/pooja-gajbhiye-b94a46186/).
-
-[1.1]: http://i.imgur.com/tXSoThF.png
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding) 
-
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
+I am a Software Engineer at Larsen & Toubro Infotech - LTI, Pune, India. You can find me on [![twitter](https://user-images.githubusercontent.com/42233709/111501807-4d1e1680-876b-11eb-9971-f4836aa8a860.png)]()  [![instagram](https://user-images.githubusercontent.com/42233709/111501844-527b6100-876b-11eb-96c7-db3cf3ce28a6.png)]()  [![linkedIn](https://user-images.githubusercontent.com/42233709/111501532-134d1000-876b-11eb-9881-6b23d1dce180.png)](https://www.linkedin.com/in/pooja-gajbhiye-b94a46186)
 
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning MongoDB, ML
+
+![iykhew1](https://user-images.githubusercontent.com/42233709/111502853-3e842f00-876c-11eb-8bd5-a9e383affc5e.png)
